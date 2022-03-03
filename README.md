@@ -1,7 +1,7 @@
 ## Hi, I'm Hayttle 👋
 
 ### Keep in touch
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayttle-soljnivisk-43a99530/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayttle)
 
 <!--
 **hayttle/hayttle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
