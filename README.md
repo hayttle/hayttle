@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## Challenges Web Development
+## Here you can see some Web Development Challenges I've been doing.
 
-[](https://hayttle.github.io/desafios/)
-
-
+[![](https://img.shields.io/website?label=hayttle.github.io/desafios&style=for-the-badge&url=https://hayttle.github.io/desafios)](https://hayttle.github.io/desafios/)
