@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
+
+[![Hayttle's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayttle&show_icons=true&theme=dark)](https://github.com/hayttle/github-readme-stats)
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hayttle-soljnivisk-43a99530/)
